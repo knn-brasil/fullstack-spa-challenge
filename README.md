@@ -10,6 +10,7 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 - Backend: (Python) FastAPI + Uvicorn, com banco de dados PostgreSQL e ORM SQLAlchemy.
 
 #### Objetivos específicos
+- Cada ToDo deverá conter Título (até 20 caracteres) e descrição (até 100 caracteres);
 - Utilização de requisições HTTP para o Backend, com 4 endpoints: *GET TASKS, CREATE TASK, UPDATE TASK, DELETE TASK*;
 - Persistência dos dados através de banco de dados relacional **PostgreSQL**;
 - Utilização de duas rotas no frontend: uma para a lista de tasks, e outra para criação/edição;
@@ -34,7 +35,7 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 - Marque o user <a href="https://github.com/augustokemp">@augustokemp</a> na descrição, ou adicione-o ao repositório.
 
 #### Considerações finais
-- **Mais funcional, menos visual**: neste momento, não foque tanto em deixar o visual bonito. Faça a aplicação funcionar. Mas, se você é um artista, por favor, capriche!! :blush:
+- **Mais funcional, menos visual**: neste momento, não foque tanto em deixar o visual bonito. Faça a aplicação funcionar. Mas, se você é um artista, por favor, capriche!! 😊
 - **Não precisa ficar perfeito**: nós entendemos, é um teste que demanda um bom tempo... Por isso, faça o quê conseguir!
 - Na KNN, utilizamos o Vue com um *@Decorator* que facilita muito o desenvolvimento, <a href="https://class-component.vuejs.org/">seria legal se você o utilizasse!</a>
 
