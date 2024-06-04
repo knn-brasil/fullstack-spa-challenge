@@ -1,7 +1,7 @@
 # fullstack-spa-challenge
 Python + VueJS SPA FullStack API Challenge
 
-### Bem-vindo(a) ao desafio FulLStack SPA da KNN!
+### Bem-vindo(a) ao desafio FullStack SPA da KNN!
 Este desafio servirá como base para verificar seu conhecimento nas tecnologias utilizadas pelo time de Desenvolvimento KNN!
 
 #### Objetivos gerais
@@ -19,7 +19,7 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 - Organização das árvores de arquivos;
 - Sintaxe, código limpo e de fácil compreensão;
 - [Frontend] Utilização das *v-directives*;
-- [Frontend] Componentização e reutilizazção de código;
+- [Frontend] Componentização e reutilização de código;
 - [Frontend] Utilização de *interfaces* para tipagem e consistência;
 - [Backend] Utilização concisa de ORM para comunicação com banco de dados;
 - [Backend] Respostas das requisições retornando apenas o requerido (Uso de response_models);
@@ -28,6 +28,10 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 - Utilização de Docker & Docker-compose com os serviços propriamente programados;
 - [Frontend] Utilização de Vue Router para gerenciar as rotas;
 - [Frontend] Utilização de Vuex para gerenciamento de estado;
+
+#### Como você deve enviar
+- Crie um repositório público aqui no Github;
+- Marque o user <a href="https://github.com/augustokemp">@augustokemp</a> na descrição, ou adicione-o ao repositório.
 
 #### Considerações finais
 - **Mais funcional, menos visual**: neste momento, não foque tanto em deixar o visual bonito. Faça a aplicação funcionar. Mas, se você é um artista, por favor, capriche!! :blush:
