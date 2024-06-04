@@ -32,11 +32,11 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 
 #### Como você deve enviar
 - Crie um repositório público aqui no Github;
-- Marque o user <a href="https://github.com/augustokemp">@augustokemp</a> na descrição, ou adicione-o ao repositório.
+- Marque o user <a target="_blank" href="https://github.com/augustokemp">@augustokemp</a> na descrição, ou adicione-o ao repositório.
 
 #### Considerações finais
 - **Mais funcional, menos visual**: neste momento, não foque tanto em deixar o visual bonito. Faça a aplicação funcionar. Mas, se você é um artista, por favor, capriche!! 😊
 - **Não precisa ficar perfeito**: nós entendemos, é um teste que demanda um bom tempo... Por isso, faça o quê conseguir!
-- Na KNN, utilizamos o Vue com um *@Decorator* que facilita muito o desenvolvimento, <a href="https://class-component.vuejs.org/">seria legal se você o utilizasse!</a>
+- Na KNN, utilizamos o Vue com um *@Decorator* que facilita muito o desenvolvimento, <a target="_blank" href="https://class-component.vuejs.org/">seria legal se você o utilizasse!</a>
 
 #### Boa sorte!
