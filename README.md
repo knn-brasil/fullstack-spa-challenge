@@ -14,7 +14,10 @@ Desenvolver um *ToDo App*, utilizando as seguintes linguagens/frameworks:
 - Utilização de requisições HTTP para o Backend, com 4 endpoints: *GET TASKS, CREATE TASK, UPDATE TASK, DELETE TASK*;
 - Persistência dos dados através de banco de dados relacional **PostgreSQL**;
 - Utilização de duas rotas no frontend: uma para a lista de tasks, e outra para criação/edição;
-- Na lista de tasks, exibir botões para edição/exclusão dos registros.
+- Na lista de tasks, exibir botões para edição/exclusão dos registros;
+- Além do title e description, crie uma coluna no banco de dados chamada origin_ip;
+- Ao enviar um POST com uma nova Task, pegue o IP de quem está criando o form através de uma API (Sugestão Ipify) e envie junto na request.
+- Ao editar um ToDo, o IP não pode ser editado.
 
 #### O quê será avaliado
 - Organização das árvores de arquivos;
